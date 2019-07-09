@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workshop-movie-react-redux/static/css/main.34de6062.chunk.css",
+    "main.js": "/workshop-movie-react-redux/static/js/main.621b89d2.chunk.js",
+    "main.js.map": "/workshop-movie-react-redux/static/js/main.621b89d2.chunk.js.map",
+    "runtime~main.js": "/workshop-movie-react-redux/static/js/runtime~main.3727a0d4.js",
+    "runtime~main.js.map": "/workshop-movie-react-redux/static/js/runtime~main.3727a0d4.js.map",
+    "static/js/2.37038ee1.chunk.js": "/workshop-movie-react-redux/static/js/2.37038ee1.chunk.js",
+    "static/js/2.37038ee1.chunk.js.map": "/workshop-movie-react-redux/static/js/2.37038ee1.chunk.js.map",
+    "index.html": "/workshop-movie-react-redux/index.html",
+    "precache-manifest.1ff3e9bada3756429761ba9440c11c6c.js": "/workshop-movie-react-redux/precache-manifest.1ff3e9bada3756429761ba9440c11c6c.js",
+    "service-worker.js": "/workshop-movie-react-redux/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/workshop-movie-react-redux/static/css/main.34de6062.chunk.css.map"
+  }
+}
